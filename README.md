@@ -4,7 +4,7 @@
 
 ### :newspaper: Sobre
 
-O propósito foi de recriar a página inicial do Instagram. Realizado no bootcamp Avanade Fullstack Developer, projeto original da Gabriela Pinheiro :wink: 
+O propósito foi de recriar a página inicial do Instagram. Realizado no bootcamp Avanade Fullstack Developer na DIO, projeto original da Gabriela Pinheiro :wink: 
 
 ## :computer:Ferramentas Utilizadas
 
